@@ -14,3 +14,9 @@ git config --global user.email "you@example.com"
 git config --global user.email "vijayammaniamma@gmail.com"
 
 git config --global user.name "vijayammani"
+
+
+git reset --hard
+git push
+git pull
+cat README.md
